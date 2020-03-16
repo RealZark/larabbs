@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a50705e5-df0a-45b6-be61-7b322c47bdc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +162,7 @@
       <workItem from="1581649096258" duration="491000" />
       <workItem from="1583570623117" duration="25000" />
       <workItem from="1583570718066" duration="191000" />
-      <workItem from="1584319669467" duration="2468000" />
+      <workItem from="1584319669467" duration="2579000" />
     </task>
     <servers />
   </component>
@@ -180,9 +178,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="625" height="500" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584324092425" />
-    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1584324039514">
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1584324558784">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584324039514" />
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584324558784" />
   </component>
 </project>
