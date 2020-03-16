@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a50705e5-df0a-45b6-be61-7b322c47bdc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/larabbs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/larabbs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +129,7 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
       <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
       <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/summerblue/generator" />
     </include_path>
   </component>
   <component name="ProjectId" id="1XmR4nH8eacv7Q9s7WRqWYLODWU" />
@@ -162,7 +167,7 @@
       <workItem from="1581649096258" duration="491000" />
       <workItem from="1583570623117" duration="25000" />
       <workItem from="1583570718066" duration="191000" />
-      <workItem from="1584319669467" duration="2579000" />
+      <workItem from="1584319669467" duration="3231000" />
     </task>
     <servers />
   </component>
@@ -174,13 +179,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="437" y="215" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1584321098593" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1584324092425">
+    <state width="625" height="500" key="SwitcherDM" timestamp="1584325666737">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="625" height="500" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584324092425" />
-    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1584324558784">
+    <state width="625" height="500" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584325666737" />
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1584325689220">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584324558784" />
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584325689220" />
   </component>
 </project>
