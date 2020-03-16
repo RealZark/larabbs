@@ -4,11 +4,7 @@
     <list default="true" id="a50705e5-df0a-45b6-be61-7b322c47bdc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Requests/UserRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/UserRequest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +164,7 @@
       <workItem from="1581649096258" duration="491000" />
       <workItem from="1583570623117" duration="25000" />
       <workItem from="1583570718066" duration="191000" />
-      <workItem from="1584319669467" duration="2000000" />
+      <workItem from="1584319669467" duration="2468000" />
     </task>
     <servers />
   </component>
@@ -180,13 +176,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="437" y="215" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1584321098593" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1584323539242">
+    <state width="625" height="500" key="SwitcherDM" timestamp="1584324092425">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="625" height="500" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584323539242" />
-    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1584322989097">
+    <state width="625" height="500" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584324092425" />
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1584324039514">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584322989097" />
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584324039514" />
   </component>
 </project>
