@@ -48,7 +48,7 @@ class TopicsController extends Controller
 		$topic->user_id = Auth::id();
 		$topic->save();
 
-		return redirect()->route($topic->link())->with('message', 'Created successfully.');
+		return redirect()->to($topic->link())->with('message', 'Created successfully.');
 	}
 
 	public function edit(Topic $topic)
@@ -64,7 +64,7 @@ class TopicsController extends Controller
 		$this->authorize('update', $topic);
 		$topic->update($request->all());
 
-		return redirect()->route($topic->link())->with('message', 'Updated successfully.');
+		return redirect()->to($topic->link())->with('message', 'Updated successfully.');
 	}
 
 	public function destroy(Topic $topic)
